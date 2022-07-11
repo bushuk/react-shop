@@ -8,7 +8,7 @@ function Header() {
                 <ul id='nav-mobile' className='right hide-on-med-and-down'>
                     <li>
                         <a
-                            href=''
+                            href='https://github.com/bushuk/react-shop'
                             target='_blank'
                             rel='noreferrer'
                         >
